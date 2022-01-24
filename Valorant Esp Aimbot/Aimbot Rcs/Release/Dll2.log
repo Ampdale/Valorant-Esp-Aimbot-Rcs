@@ -1,0 +1,12 @@
+﻿  dllmain.cpp
+C:\Users\Administrator\Documents\Documents Waning'\ValorantSource\Dll2\dllmain.cpp(176,95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Documents\Documents Waning'\ValorantSource\Dll2\dllmain.cpp(176,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Documents\Documents Waning'\ValorantSource\Dll2\dllmain.cpp(391,83): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Documents\Documents Waning'\ValorantSource\Dll2\dllmain.cpp(392,83): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Documents\Documents Waning'\ValorantSource\Dll2\dllmain.cpp(417,57): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Documents\Documents Waning'\ValorantSource\Dll2\dllmain.cpp(418,57): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 352 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Dll2.vcxproj -> C:\Users\Administrator\Documents\Documents Waning'\ValorantSource\Release\dll.dll

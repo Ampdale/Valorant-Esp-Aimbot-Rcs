@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+C:\Users\Administrator\Desktop\main\Dll2\dllmain.cpp(149,95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\main\Dll2\dllmain.cpp(149,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\main\Dll2\dllmain.cpp(330,83): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\main\Dll2\dllmain.cpp(331,83): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\main\Dll2\dllmain.cpp(356,57): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\main\Dll2\dllmain.cpp(357,57): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Dll2.vcxproj -> C:\Users\Administrator\Desktop\main\Debug\dll.dll
